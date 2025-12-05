@@ -1,2 +1,2 @@
-# Rick-s-St-dios
-Studio New
+# Rick-and-Morty
+Addons News
