@@ -1,8 +1,8 @@
 {
   "version": "1.0.5",
   "mods": [
-    { "name": "FNAF_Mod", "url": "https://seu-site.com/mods/fnaf.jar", "hash": "abc12345" },
-    { "name": "Optifine", "url": "https://seu-site.com/mods/optifine.jar", "hash": "xyz98765" }
+    { "name": "FNAF_Mod", "url": "https://optifine.net/downloadx?f=OptiFine_1.20.1_HD_U_I6.jar&x=ec95b799362b28502a3d43d9e35a9e87.jar", "hash": "abc12345" },
+    { "name": "Optifine", "url": "https://www.curseforge.com/minecraft/mc-mods/management-wanted/download/6373392.jar", "hash": "xyz98765" }
   ],
   "patch_notes": "Correção de segurança contra exploit X e novos mods de susto."
 }
