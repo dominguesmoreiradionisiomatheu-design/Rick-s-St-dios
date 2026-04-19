@@ -1,0 +1,8 @@
+{
+  "version": "1.0.5",
+  "mods": [
+    { "name": "FNAF_Mod", "url": "https://seu-site.com/mods/fnaf.jar", "hash": "abc12345" },
+    { "name": "Optifine", "url": "https://seu-site.com/mods/optifine.jar", "hash": "xyz98765" }
+  ],
+  "patch_notes": "Correção de segurança contra exploit X e novos mods de susto."
+}
